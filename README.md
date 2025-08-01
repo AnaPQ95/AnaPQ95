@@ -46,7 +46,7 @@ Busco oportunidades para crecer profesionalmente en el mundo del desarrollo, apo
 ### 💡 Sobre mí
 
 Me apasiona crear cosas desde cero, aprender tecnologías nuevas y participar en proyectos con propósito.  
-Cuando no estoy programando, me encanta estar al aire libre, aprender a hacer cosas nuevas, y por supuesto, ¡tomar un café en mi balcón! ☕💡
+Cuando no estoy programando, me encanta estar al aire libre, aprender a hacer cosas nuevas, y por supuesto, ¡tomar un café en mi balcón! ☕
 
 ---
 
