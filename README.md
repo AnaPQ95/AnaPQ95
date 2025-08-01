@@ -39,7 +39,7 @@ Busco oportunidades para crecer profesionalmente en el mundo del desarrollo, apo
 
 - 📍 Málaga, España  
 - 📧 [anapaulaquinoa@gmail.com](mailto:anapaulaquinoa@gmail.com)  
-- 🔗 [LinkedIn: Ana Paula Quiñoa](www.linkedin.com/in/ana-paula-quiñoa-torcisi)
+- 🔗 [LinkedIn: Ana Paula Quiñoa](https://www.linkedin.com/in/ana-paula-qui%C3%B1oa-torcisi/)
 
 ---
 
