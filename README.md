@@ -30,7 +30,7 @@ Busco oportunidades para crecer profesionalmente en el mundo del desarrollo, apo
 
 ### 🚀 Proyectos Destacados
 
-🔹 **[LYSTI]** – Una app de organización de tareas que satisfaga mis necesidades particulares (React + Python + MySQL)   
+🔹 **[LYSTI](https://github.com/AnaPQ95/lysti)** – Una app de organización de tareas que satisfaga mis necesidades particulares (React + Python + MySQL)   
 🔹 **[VIBRA]** – Una app de registro emocional, que te ayuda a comprender tus comportamientos de manera social (React + SpringBoot + MySQL)   
 
 ---
