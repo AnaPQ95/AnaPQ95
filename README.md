@@ -30,9 +30,12 @@ Busco oportunidades para crecer profesionalmente en el mundo del desarrollo, apo
 
 ### 🚀 Proyectos Destacados
 
-🔹 **[LYSTI](https://github.com/AnaPQ95/lysti)** – Una app de organización de tareas que satisfaga mis necesidades particulares (React + Python + MySQL)   
-🔹 **[VIBRA](https://github.com/pepinedo/Vibra)** – Una app de registro emocional, que te ayuda a comprender tus comportamientos de manera social (React + SpringBoot + MySQL)   
-🔹 **[POKEAPI](https://github.com/AnaPQ95/PokeApi)** – Ejercicio práctico en el que se hacen consultas a la api de Pokemon (React + [PokeApi](https://pokeapi.co))
+🔹 **[LYSTI](https://github.com/AnaPQ95/lysti)** – Una app de organización de tareas que satisfaga mis necesidades particulares 
+      (React + Python + MySQL)   
+🔹 **[VIBRA](https://github.com/pepinedo/Vibra)** – Una app de registro emocional, que te ayuda a comprender tus comportamientos de manera social 
+      (React + SpringBoot + MySQL)   
+🔹 **[POKEAPI](https://github.com/AnaPQ95/PokeApi)** – Ejercicio práctico en el que se hacen consultas a la api de Pokemon 
+      (React + [PokeApi](https://pokeapi.co))
 
 
 ---
